@@ -29,7 +29,7 @@ This app just checks the slot and provides an alert if it is available. Once it 
 
 (These checks are done to avoid the rate limiting which is for ~100 requests in 5 minutes per IP)
   
-  - Click on 'Run' button the API's will be hit and the available slots are listed with a beep for each ietration.
+  - Click on 'Run' button the API's will be hit and the available slots are listed with a beep for each iteration.
   ![CovidVaccineSlotChecker](https://github.com/sriharshab88/CovidVaccineSlotChecker/blob/master/src/test/resources/GUI_3.png)
  
  - If the vaccination slots are not available, then a message is shown in the console.
