@@ -33,5 +33,5 @@ This is JAVA project built with the help of JAVA Swings for GUI interface to che
  - If the vaccination slots are not available, then a message is shown in the console.
   ![CovidVaccineSlotChecker](https://github.com/sriharshab88/CovidVaccineSlotChecker/blob/master/src/test/resources/GUI_4.png)
   
-   # Contact for any queries or clarifications:
-   Email: sriharsha.b.88@gmail.com
+ # Contact for any queries or clarifications:
+ Email: sriharsha.b.88@gmail.com
