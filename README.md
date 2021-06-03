@@ -1,6 +1,6 @@
 # CovidVaccineSlotChecker
 
-This is JAVA project built with the help of JAVA Swings for GUI interface to check the Covid vaccination available slots across Karnataka for different districts. This program hits the coWin slots/availability API and the data is formatted according to the need. 
+This is JAVA project built with the help of JAVA Swings for GUI interface to check the Covid vaccination available slots for 18+ years across Karnataka for all districts. This program hits the coWin slots/availability API and the data is formatted according to the need. 
 
 This app just checks the slot and provides an alert if it is available. Once it is available, please log in to https://selfregistration.cowin.gov.in/ and book the slots.
 
