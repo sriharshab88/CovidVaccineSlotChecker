@@ -41,5 +41,5 @@ This app just checks the slot and provides an alert if it is available. Once it 
  - If the vaccination slots are not available, then a message is shown in the console.
   ![CovidVaccineSlotChecker](https://github.com/sriharshab88/CovidVaccineSlotChecker/blob/master/src/test/resources/GUI_4.png)
   
- # Contact for any queries or clarifications:
+ # For any queries or clarifications:
  Email: sriharsha.b.88@gmail.com
