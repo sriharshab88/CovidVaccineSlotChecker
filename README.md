@@ -12,9 +12,15 @@ This app just checks the slot and provides an alert if it is available. Once it 
 
 # How to Use this ?
 
+ - Need to install JAVA in your system
  - Clone this project to your local to make any changes or to access the code.
  - Run the file CovidVaccineSlotChecker.java
  - Download the CovidVaccineSlotChecker.jar file and execute it.
+
+# Runs on:
+ - Windows latest version
+ - MAC OS
+ - Linux OS
  
  # How it works ?
   - When the .jar is file is executed or .java classfile is run, a GUI interface will be opened.
