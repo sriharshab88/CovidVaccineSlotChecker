@@ -6,7 +6,7 @@ import com.jayway.restassured.specification.RequestSpecification;
 
 public class ResourceLayer {
 
-    public Response getResponse(String url){
+    public Response getResponse(String url) {
         RequestSpecification specification = RestAssured.given().request();
         specification.contentType("application/json");
         specification.header("Accept", "application/json");

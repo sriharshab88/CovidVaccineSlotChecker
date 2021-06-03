@@ -1,7 +1,6 @@
 package script;
 
 import com.jayway.restassured.response.Response;
-import data.Iterations;
 import data.TestData;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -52,7 +51,7 @@ public class SlotChecker extends ResourceLayer {
 
             }
             if (slotCounter != 0) {
-                CovidVaccineSlotChecker.textArea.append("Total Available slots: " + availableSlots.length()+ "\n");
+                CovidVaccineSlotChecker.textArea.append("Total Available slots: " + availableSlots.length() + "\n");
                 CovidVaccineSlotChecker.textArea.append("Slot details: " + availableSlots + "\n");
                 CovidVaccineSlotChecker.textArea.append("******************************************************************************************************\n");
                 CovidVaccineSlotChecker.lblSlotsAreAvailable.setText("Slots are available !!!!");
@@ -68,7 +67,6 @@ public class SlotChecker extends ResourceLayer {
         CovidVaccineSlotChecker.textArea.append("***********The Vaccination slot check is completed*************\n");
 
     }
-
 
 
 }
