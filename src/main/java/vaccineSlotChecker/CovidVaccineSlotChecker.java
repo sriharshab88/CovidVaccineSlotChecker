@@ -172,6 +172,8 @@ public class CovidVaccineSlotChecker extends JFrame {
 		timeInt = (TimeInterval) comboBox_1.getSelectedItem();
 		iterations = (Iterations) comboBox_1_1.getSelectedItem();
 		textArea.setText(null);
+		lblSlotsAreAvailable.setText(null);
+		lblLoginTo.setText(null);
 		textArea.append("***********The Vaccination slot check for "+distId+ " with "+iterations.iterations+ " iterations for every "+timeInt.interval+" millisec*************\n");
         slotChecker.getCoWinVaccinationSlots(distId.districtId, iterations.iterations, timeInt.interval);
     }
