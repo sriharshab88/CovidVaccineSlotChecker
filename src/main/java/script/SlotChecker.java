@@ -1,7 +1,7 @@
 package script;
 
-import com.jayway.restassured.response.Response;
 import data.TestData;
+import io.restassured.response.Response;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.testng.Assert;
